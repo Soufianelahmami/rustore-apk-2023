@@ -31,20 +31,20 @@
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
   
   
-"yandex_banner":"R-M-DEMO-320x100",
-"yandex_inter":"R-M-DEMO-interstitial",
-"yandex_native":"R-M-DEMO-native-i",
-"yandex_reward":"demo-rewarded-yandex",
+"yandex_banner":"R-M-3037148-1",
+"yandex_inter":"R-M-3037148-3",
+"yandex_native":"R-M-3037148-2",
+"yandex_reward":"R-M-3037148-4",
 
-"detail_first_button":"first button",
-"detail_second_button":"12MB",
-"detail_text_title":"how to use title text",
+"detail_first_button":"Online Download",
+"detail_second_button":"17MB",
+"detail_text_title":"how to use apk of rustore",
 "detail_text1":"1) open file in chrome.. and File is Auto Downloading..\n\n 2) open Download folder and Extract to .zip file which ", 
  
-"banner_network_choice":"admob", 
-"interstisial_network_choice":"admob", 
-"reward_network_choice":"admob",
-"native_network_choice":"admob"
+"banner_network_choice":"yandex", 
+"interstisial_network_choice":"yandex", 
+"reward_network_choice":"yandex",
+"native_network_choice":"yandex"
   
   
 
@@ -87,11 +87,11 @@
    ],
   
   "more_apps_info":[
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
+  {"name":"RuStore гид Android","package_name":"com.rstoore.russianapk","icon":"https://play-lh.googleusercontent.com/i_BknsCVLTUto_hzbFlVNxo-wAmWMfOsCHjEHc3Jf2F3htktK7k22mRN0H20v_1UG9o=w240-h480-rw"},
+  {"name":"RuStore гид Android","package_name":"com.rstoore.russianapk","icon":"https://play-lh.googleusercontent.com/i_BknsCVLTUto_hzbFlVNxo-wAmWMfOsCHjEHc3Jf2F3htktK7k22mRN0H20v_1UG9o=w240-h480-rw"},
+  {"name":"RuStore гид Android","package_name":"com.rstoore.russianapk","icon":"https://play-lh.googleusercontent.com/i_BknsCVLTUto_hzbFlVNxo-wAmWMfOsCHjEHc3Jf2F3htktK7k22mRN0H20v_1UG9o=w240-h480-rw"},
+  {"name":"RuStore гид Android","package_name":"com.rstoore.russianapk","icon":"https://play-lh.googleusercontent.com/i_BknsCVLTUto_hzbFlVNxo-wAmWMfOsCHjEHc3Jf2F3htktK7k22mRN0H20v_1UG9o=w240-h480-rw"},
+  {"name":"RuStore гид Android","package_name":"com.rstoore.russianapk","icon":"https://play-lh.googleusercontent.com/i_BknsCVLTUto_hzbFlVNxo-wAmWMfOsCHjEHc3Jf2F3htktK7k22mRN0H20v_1UG9o=w240-h480-rw"}
    ]
  
 }
